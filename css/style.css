@@ -1,0 +1,60 @@
+h1 {
+    font-family: 'Bebas Neue', cursive;
+    font-size: 80px;
+    font-weight: 700;
+    color: rgba(67, 179, 115, 0.6);
+}
+
+h5 {
+    font-family: 'Roboto', sans-serif;
+    font-size: 15px;
+    text-transform: uppercase;
+    color: seagreen;
+}
+
+.button-common-class {
+    padding: 8px 16px;
+    background-color: rgba(51, 51, 141, 0.6);
+    border: none;
+    border-radius: 10px;
+    -webkit-border-radius: ;
+    -moz-border-radius: ;
+    -ms-border-radius: ;
+    -o-border-radius: ;
+    margin-top: 20px;
+    color: #ffff;
+    font-family: 'Roboto'sans-serif;
+    font-size: 18px;
+    text-transform: uppercase;
+}
+
+.dollar-common-cls {
+    font-size: 40px;
+    font-weight: 700;
+    color: seagreen;
+    font-family: 'Roboto'sans-serif;
+    margin-top: 18px;
+}
+
+.card-common-cls {
+    border: none;
+    background-color: whitesmoke;
+    margin: 5%;
+    border-radius: 15px;
+    -webkit-border-radius: 15px;
+    -moz-border-radius: 15px;
+    -ms-border-radius: 15px;
+    -o-border-radius: 15px;
+}
+
+.card-footer-common-cls {
+    border: none;
+    background-color: whitesmoke;
+}
+
+.img-common-cls {
+    height: 50px;
+    
+}
+
+
